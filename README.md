@@ -1,20 +1,6 @@
----
-description: 'This is a test document. For, you know, testing...'
----
+# Initial page
 
-# Test document
+## DDDDD <a id="hhhh"></a>
 
-## Heading 1
-
-```text
-<option disabled hidden value="">
-  {{ $t('analytics.selectPreferredBlockchain') }}
-</option>
-```
-
-Some content goes here
-
-
-
-
+##   <a id="hhhh"></a>
 
